@@ -1,6 +1,7 @@
 import sys, os, os.path, time, random, smtplib, getpass
 try:
   os.system("clear")
+  print ("\033[1;32;40m")
   print ("""
 
                                    _L/L
