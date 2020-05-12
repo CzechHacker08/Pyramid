@@ -49,7 +49,7 @@ try:
       print("\n \033[1;31;40m[!] \033[1;35;40mPyramid: \033[1;31;40mConnection error. Restart the program.\n")
       exit()
   time.sleep(1)
-  print ("\n \033[1;34;40m[o] \033[1;32;40mSend $20 to this BTC address: \n   \033[1;35;40m  13GGddR6xeExzNx3iyP63TygZDxjfBUobg")
+  print ("\n \033[1;34;40m[o] \033[1;32;40mSend $20 to this BTC address: \n   \033[1;35;40m  1CoeARdwk414J4sRziVc2sXEN7Pwim9DKH")
   time.sleep(2)
   print ("\n \033[1;34;40m[o] \033[1;32;40mYour 4 friends must also pay $20. \n     Send their wallets after login.\n\n")
   time.sleep(1)
