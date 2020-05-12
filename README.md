@@ -19,3 +19,5 @@
         8. Pyramid will pay 1000x,
            if you will be the last, you will
            lose, so be the first!!!
+           
+ Actual BTC address: 1CoeARdwk414J4sRziVc2sXEN7Pwim9DKH
